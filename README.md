@@ -1,3 +1,11 @@
+### Baik, Halo kalian!
+
+Repository ini dimaksudkan untuk menyediakan contoh untuk *forking* sebuah repository di Github.
+
+Membuat sebuah *fork* berarti menghasilkan salinan pribadi dari project seseorang. *Forks* bertindak semacam jembatan antara repository asli dan salinan pribadi anda. Anda bisa mengirim *Pull Requests* untuk membantu projek orang lain menjadi lebih baik dengan menawarkan ubahan anda ke projek asal. *Forking* merupakan inti dari *social coding* di Github
+
+
+
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
