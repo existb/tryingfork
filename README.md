@@ -4,7 +4,9 @@ Repository ini dimaksudkan untuk menyediakan contoh untuk *forking* sebuah repos
 
 Membuat sebuah *fork* berarti menghasilkan salinan pribadi dari project seseorang. *Forks* bertindak semacam jembatan antara repository asli dan salinan pribadi anda. Anda bisa mengirim *Pull Requests* untuk membantu projek orang lain menjadi lebih baik dengan menawarkan ubahan anda ke projek asal. *Forking* merupakan inti dari *social coding* di Github
 
+Setelah repository ini di *forking*, anda bisa mengubah sesuatu pada projek, dan mengirim [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) sebagai latihan.
 
+Untuk informasi tambahan bagaimana cara *fork* sebuah repository, [baca panduan kami, "Forking Projects""](http://guides.github.com/overviews/forking/). Terimakasih! 💖
 
 ### Well hello there!
 
