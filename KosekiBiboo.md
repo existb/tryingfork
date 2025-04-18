@@ -11,6 +11,6 @@ first enemy is mumei with kiara ghost, she win
 second enemy is raora, she lost, calli revive her, she win
 third enemy is gigi, she lost, calli revive her again, she win
 fourth enemy is cecilia, she lost, calli revive her again, she win, cecilia joined her
-fifth enemy is liz, 
+fifth enemy is liz, she win
 #
 ### The Forge
