@@ -27,4 +27,6 @@ second enemy is nerissa🎶, she win
 
 third enemy is fuwamoco🐾, both knock but she win
 
-
+last enemy, the final boss, is kaela🔨, she has 3 phase. first phase is kaela🔨 form, she win. second phase is the world smith⚒️🔥 form, she win. unexpected, third phase is end reality🌠 form that has almost ♾️ health, she lost, calli motivate and revive her, she use friendship power, she win
+#
+### The END
