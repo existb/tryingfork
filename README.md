@@ -24,6 +24,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 Repo ini hanya sebagai latihan nge-*forking* sebuah repo di github
 
-Nge-*fork* berarti membuat salinan pribadi dari projek orang. *Forks* ngehubungin repo asli dengan repo anda. Anda bisa nawarin *Pull Requests* untuk bantu projek asal dengan ubahan anda yang lebih baik. *Forking* lain katanya ngoding bersama.
+Nge-*fork* berarti membuat salinan pribadi dari projek orang. *Forks* ngehubungin repo asli dengan repo anda. Anda bisa nawarin *Pull Requests* untuk bantu projek asal dengan ubahan anda yang lebih baik. *Forking* bisa dikatakan saling ngoding.
 
 Habis nge-*fork* repo ini, anda bisa ngubah sesuatu dan ngirim [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) buat latihan. kalau masih bingung, [baca panduan kami, "Forking Projects""](http://guides.github.com/overviews/forking/). Makasih! :sparkling_heart:
