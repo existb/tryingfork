@@ -67,50 +67,50 @@ notification:
   no_updates: "No updates available."
 
 first_time_setup:
-  title: "First Time Setup"
-  welcome_heading: "Welcome"
-  welcome_content: |
-    Hachimi has been installed! This will guide you through the initial setup process.
-    If you're not interested in using the translation features, you may skip it by closing this dialog.
-  translation_repo_heading: "Translation repo"
-  select_translation_repo: "Select a translation repo:"
-  complete_heading: "All done!"
-  complete_content: >
-    The translation repo has been set. Once you click on Done, the configuration will
-    be saved and an update check will be performed, which will prompt you to download the
-    new translation data.
+  judul: "Pengaturan Pertama Kali"
+  selamat_datang_heading: "Selamat Datang"
+  selamat_datang_content: |
+    Hachimi telah terinstal! Ini akan memandumu menuju proses pengaturan awal.
+    Jika anda tidak tertarik menggunakan fitur penerjemah, anda bisa lewati dengan menutup dialog.
+  terjemahan_repo_heading: "Terjemahan repo"
+  pilih_terjemahan_repo: "pilih sebuah terjemahan repo:"
+  selesai_heading: "Selesai!"
+  selesai_content: >
+    repo terjemahan telah diatur. setelah klik selesai, pengaturan akan disimpan dan
+    pengecekan pembaruan akan dilakukan, ini akan mengarahkan anda untuk mendownload
+    data terjemahan baru
 
 about:
-  title: "About"
-  copyright: "Copyright (c) 2024 LeadRDRK and contributors"
-  view_license: "View license"
-  check_for_updates: "Check for updates"
+  judul: "Tentang"
+  hak_cipta: "Hak Cipta (c) 2024 LeadRDRK dan kontributor"
+  lihat_lisensi: "Lihat lisensi"
+  cek_pembaruan: "Cek pembaruan"
 
 license:
-  title: "License"
+  judul: "Lisensi"
 
 tl_updater:
-  title: "Updating..."
-  warning: |
-    Translations will not work
-    while update is in progress
+  judul: "Memperbarui..."
+  peringatan: |
+    terjemahan tidak akan berfungsi
+    ketika pembaruan masih dalam proses
 
 config_editor:
-  title: "Config Editor"
-  general_tab: "⛭ General"
-  graphics_tab: "🖼 Graphics"
+  judul: "Config Editor"
+  umum_tab: "⛭ Umum"
+  grafik_tab: "🖼 Grafik"
   gameplay_tab: "🎮 Gameplay"
-  language: "Language"
-  language_english: "English"
-  language_tchinese: "Traditional Chinese"
-  language_schinese: "Simplified Chinese"
-  disable_overlay: "Disable overlay (GUI)"
-  disable_overlay_warning: |
-    This option will disable the Hachimi overlay after you restart the game,
-    which means that you will NOT be able to access the Config Editor after this.
-    If this was not intentional, close this dialog and DISABLE the option.
-  debug_mode: "Debug mode"
-  translator_mode: "Translator mode"
+  bahasa: "Bahasa"
+  bahasa_inggris: "Inggris"
+  bahasa_tchinese: "Cina Traditional"
+  bahasa_schinese: "Cina Simplified"
+  matikan_overlay: "Matikan overlay (GUI)"
+  peringatan_matikan_overlay: |
+    opsi ini akan mematikan overlay Hachimi setelah anda memulai ulang game,
+    hal ini berarti anda tidak akan bisa mengakses config editor setelah ini.
+    jika ini tidak disengaja, tutup dialog ini dan matikan opsinya.
+  mode_debug: "Mode debug"
+  mode_penerjemah: "Mode penerjemah"
   skip_first_time_setup: "Skip first time setup"
   disable_auto_update_check: "Disable auto update\ncheck"
   disable_translations: "Disable translations"
