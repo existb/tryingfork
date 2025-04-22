@@ -133,10 +133,10 @@ config_editor:
   penskalaan_resolusi_ukuran_layar: "Skala untuk ukuran layar"
   penskalaan_resolusi_ukuran_window: "Skala untuk ukuran window"
   window_selalu_di_atas: "Window selalu di atas"
-  story_choice_auto_select_delay: "Story choice auto\nselect delay"
-  story_text_speed_multiplier: "Story text speed\nmultiplier"
-  force_allow_dynamic_camera: "Force allow\ndynamic camera"
-  live_theater_allow_same_chara: "Live theater\nallow same chara"
+  jeda_pilih_otomatis_pilihan_cerita: "Jeda pilih otomatis pilihan cerita"
+  pengali_kecepatan_teks_cerita: "Pengali kecepatan teks cerita"
+  paksa_bisa_kamera_dinamis: "Paksa bisa kamera dinamis"
+  teater_live_bisa_memakai_karakter_yang_sama: "Teater live bisa memakai karakter yang sama"
 
 tl_update_dialog:
   title: "New update available"
