@@ -139,8 +139,8 @@ config_editor:
   teater_live_bisa_memakai_karakter_yang_sama: "Teater live bisa memakai karakter yang sama"
 
 tl_update_dialog:
-  title: "New update available"
-  content: "A new translation update is available (%{size}). Do you want to download it?"
+  judul: "Update baru tersedia"
+  konten: "Update terjemahan baru telah tersedia (%{ukuran}). Apa anda ingin mengunduhnya?"
 
 update_prompt_dialog:
   title: "New update available"
