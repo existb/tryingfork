@@ -9,7 +9,7 @@ android:
   tombol_buka_menu: "Vol naik + Vol turun"
 
 splash_sub: "🏠 tekan %{open_key_str} untuk membuka menu."
-label_loading: "Loading..."
+label_loading: "Memuat..."
 batalkan: "Batalkan"
 simpan: "Simpan"
 selesai: "Selesai"
@@ -30,15 +30,15 @@ peramban_dalam_game_konfirmasi_konten: "Apa kau yakin ingin membuka peramban dal
 peramban_judul_dialog: "Peramban"
 
 menu:
-  fps_text: "FPS: %{fps}"
+  fps_teks: "FPS: %{fps}"
   tutup_menu: "🗙 Tutup menu"
   stats_heading: "🗊 Stats"
   localize_dict_entries: "localize_dict entries: %{count}"
   hashed_dict_entries: "hashed_dict entries: %{count}"
   config_heading: "🛠 Config"
-  open_config_editor: "✏ Open config editor"
-  reload_config: "⟳ Reload config"
-  open_first_time_setup: "🚀 Open first time setup"
+  membuka_config_editor: "✏ Membuka config editor"
+  muat_ulang_config: "⟳ Memuat ulang config"
+  membuka_pengaturan_pertama_kali: "🚀 Membuka pengaturan pertama kali"
   graphics_heading: "🖼 Graphics"
   fps_label: "FPS"
   vsync_label: "VSync"
