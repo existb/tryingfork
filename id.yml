@@ -139,15 +139,15 @@ config_editor:
   teater_live_bisa_memakai_karakter_yang_sama: "Teater live bisa memakai karakter yang sama"
 
 tl_update_dialog:
-  judul: "Update baru tersedia"
-  konten: "Update terjemahan baru telah tersedia (%{ukuran}). Apa anda ingin mengunduhnya?"
+  judul: "Pembaruan baru tersedia"
+  konten: "Pembaruan terjemahan baru telah tersedia (%{ukuran}). Apa anda ingin mengunduhnya?"
 
 update_prompt_dialog:
-  title: "New update available"
-  content: |
-    A new Hachimi update is available (%{version}). Do you want to install it?
-    The game will be restarted in order to apply the update.
+  judul: "Pembaruan baru tersedia"
+  konten: |
+    Pembaruan Hachimi baru telah tersedia (%{versi}). Apa anda ingin menginstalnya?
+    Game akan di muat ulang untuk memasukkan pembaruan.
 
 updating_dialog:
-  title: "Updating"
-  content: "Downloading update, the game will restart shortly..."
+  judul: "Memperbarui"
+  konten: "mengunduh pembaruan, game akan dimuat ulang segera..."
