@@ -54,17 +54,17 @@ menu:
   toggle_game_ui: "👁 Toggle game UI"
 
 notification:
-  saved_localize_dump: "Saved to localize_dump.json"
-  config_reloaded: "Config reloaded."
-  config_saved: "Config saved."
-  localized_data_reloaded: "Localized data reloaded."
-  checking_for_tl_updates: "Checking for translation updates..."
-  no_tl_updates: "No translation updates available."
-  update_failed: "Update failed: %{reason}"
-  update_completed: "Update completed."
-  errors_during_update: "%{count} errors occurred during update. Check logs for more info."
-  checking_for_updates: "Checking for updates..."
-  no_updates: "No updates available."
+  menyimpan_localize_dump: "Simpan ke localize_dump.json"
+  config_termuat_ulang: "Config termuat ulang."
+  config_tersimpan: "Config tersimpan."
+  localized_data_termuat_ulang: "Localized data termuat ulang."
+  pengecekan_pembaruan_tl: "Pengecekan pembaruan terjemahan..."
+  tidak_ada_pembaruan_tl: "Pembaruan terjemahan tidak tersedia."
+  pembaruan_gagal: "Pembaruan gagal: %{alasan}"
+  pembaruan_selesai: "Pembaruan selesai."
+  error_selama_pembaruan: "%{hitungan} error terjadi selama pembaruan. cek catatan untuk info lebih lanjut."
+  pengecekan_pembaruan: "Pengecekan pembaruan..."
+  tidak_ada_pembaruan: "Pembaruan tidak tersedia."
 
 first_time_setup:
   judul: "Pengaturan Pertama Kali"
