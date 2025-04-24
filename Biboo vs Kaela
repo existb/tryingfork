@@ -5,7 +5,8 @@ biboo
 -cut = do 10 dmg
 -slash = do 45% 5 dmg, 32.5% 10 dmg, 22.5% 20 dmg
 -pierce = do 50% 5 dmg, 35% 10 dmg, 10% 20 dmg, 5% 40 dmg
--crystal = do 35% 2.5 dmg, 17.5% 5 dmg, 12.5% 10 dmg, 35% 20 dmg
+-force = do 35% 2.5 dmg, 17.5% 5 dmg, 12.5% 10 dmg, 35% 20 dmg
+-crystal = attack 1-4 times, do 1-7 dmg
 -prism = do 0-10 dmg, heal 0-10 hp itself
 
 kaela
@@ -13,4 +14,5 @@ kaela
 -tamper = 50% 10 dmg, 50% 20 dmg, lose 5 hp itself
 -smelt = do 10-35 dmg, lose 10-15 hp itself
 -forge = 40% 0 dmg, 30% 5 dmg, 20% 10 dmg, 10% 20 dmg, heal 4.5 hp itself
+-steal = 50% success, steal 5-15 hp enemy to itself
 -rewind = heal 15-25 hp itself, heal 5-15 hp to enemy
