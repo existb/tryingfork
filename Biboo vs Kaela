@@ -4,8 +4,8 @@ this is turn based, every turn you can pick one skill. start with 100 health for
 biboo
 -cut = do 10 dmg
 -slash = do 45% 5 dmg, 32.5% 10 dmg, 22.5% 20 dmg
--force pierce = do 50% 5 dmg, 35% 10 dmg, 10% 20 dmg, 5% 40 dmg
--deep pierce = do 35% 2.5 dmg, 17.5% 5 dmg, 12.5% 10 dmg, 35% 20 dmg
+-pierce = do 50% 5 dmg, 35% 10 dmg, 10% 20 dmg, 5% 40 dmg
+-crystal = do 35% 2.5 dmg, 17.5% 5 dmg, 12.5% 10 dmg, 35% 20 dmg
 -prism = do 0-10 dmg, heal 0-10 hp itself
 
 kaela
