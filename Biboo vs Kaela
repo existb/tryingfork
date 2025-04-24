@@ -6,11 +6,11 @@ biboo
 -pierce = do 45% 5 dmg, 32.5% 10 dmg, 22.5% 20 dmg
 -force pierce = do 50% 5 dmg, 35% 10 dmg, 10% 20 dmg, 5% 40 dmg
 -deep pierce = do 35% 2.5 dmg, 17.5% 5 dmg, 12.5% 10 dmg, 35% 20 dmg
--prism = do 5 dmg, heal 5 hp itself
+-prism = do 0-10 dmg, heal 0-10 hp itself
 
 kaela
 -strike = 10 dmg
 -tamper = 50% 10 dmg, 50% 20 dmg, lose 5 hp itself
 -smelt = random 1-35 dmg, lose random (10-15) hp itself
 -forge = 40% 0 dmg, 30% 5 dmg, 20% 10 dmg, 10% 20 dmg, heal 5 hp itself
--rewind = heal 40 hp itself, heal 30 hp to enemy
+-rewind = heal 30-40 hp itself, heal 20-30 hp to enemy
