@@ -11,6 +11,6 @@ biboo
 kaela
 -strike = 10 dmg
 -tamper = 50% 10 dmg, 50% 20 dmg, lose 5 hp itself
--smelt = random 1-35 dmg, lose random (10-15) hp itself
+-smelt = do 1-35 dmg, lose 10-15 hp itself
 -forge = 40% 0 dmg, 30% 5 dmg, 20% 10 dmg, 10% 20 dmg, heal 5 hp itself
 -rewind = heal 30-40 hp itself, heal 20-30 hp to enemy
