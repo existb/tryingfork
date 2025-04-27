@@ -1,4 +1,4 @@
-i have this skill persentase for two character, i will play one character and you play the other. start with max 100 health for both character.
+ei have this skill persentase for two character, i will play one character and you play the other. start with max 100-250 health for both character.
 this is turn based, every turn you can pick (1,2 or 3) skill. every skill has one your turn cooldown, so it can't use your next turn, but can use again in 2 your next turn.
 
 biboo
@@ -26,4 +26,8 @@ Additional effect
     (10% probability up for the highest damage (you adjust for the rest), skill apply 2 time,
     50% effect up, 50% effect down, switch skill, skill change with random skill) will apply to both player.
 
-3)  
+3)  every turn, you can ban one skill enemy for the one next enemy turn.
+
+4)  after turn, you can turn off cooldown one of three used skill, so you can use it again next turn
+
+
