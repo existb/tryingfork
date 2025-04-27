@@ -10,7 +10,7 @@ biboo
 -prism =   do 0-10 dmg, heal 0-10 hp itself
 
 kaela
--strike =  10 dmg
+-strike =  do 10 dmg
 -tamper =  50% 10 dmg, 50% 20 dmg, lose 5 hp itself
 -smelt =   do 10-35 dmg, lose 10-15 hp itself
 -forge =   40% 0 dmg, 30% 5 dmg, 20% 10 dmg, 10% 20 dmg, heal 4.5 hp itself
@@ -18,7 +18,7 @@ kaela
 -rewind =  heal 15-25 hp itself, heal 5-15 hp to enemy
 
 cecilia
--stab =      
+-stab =      do 10 dmg
 -roundler =  
 -counter =   
 -shield =    
