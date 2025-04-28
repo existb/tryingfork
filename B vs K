@@ -22,8 +22,8 @@ cecilia
 -lance =     do 19-21 dmg, lose 9-11 hp
 -counter =   do 50-150% dmg form last dmg received
 -shield =    absorb 30-70% dmg and turn 80-120% dmg absorb to heal hp
--ancient =   do 5 dmg, 50% to find artifact piece, if 3 piece collected, artifact do 30 dmg then gone
--automaton = heal 10 hp and use random skill for next turn
+-ancient =   do 4 dmg, 75% to find artifact piece, if 2 piece collected, artifact do 16 dmg then gone
+-automaton = heal 5 hp and activate one skill again with 50% effect
 
 Additional effect
 
@@ -38,4 +38,6 @@ Additional effect
 
 4)  after turn, you can turn off cooldown one of three used skill, so you can use it again next turn
 
-
+kalau dilakukan 4 kali, berarti menemukan 3 kali, sedangkan butuh 2 untuk aktif, biar bulat
+dilakukan 8 kali, total nemu 6 kali, berarti aktif 3 kali
+dmg biasa jadi 32 dmg, dmg kurang 48 dmg, jadi dmg artifak 48/3=16
