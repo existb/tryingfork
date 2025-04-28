@@ -22,7 +22,7 @@ cecilia
 -lance =     do 19-21 dmg, lose 9-11 hp
 -counter =   do 50-150% dmg from last dmg received
 -shield =    absorb 30-70% dmg and turn 80-120% dmg absorb to heal hp
--ancient =   do 4 dmg, 60% to find artifact piece, if 2 piece collected, artifact do 20 dmg then gone
+-ancient =   do 5 dmg, finding artifact 3 times with chance 30%, artifact do 5, 12 or 21 dmg (found 1, 2 or 3 artifact)
 -automaton = heal 5 hp and activate one skill again with 50% effect
 
 Additional effect
