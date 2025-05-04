@@ -83,4 +83,44 @@ class TempDir:
     def __del__(self):
         self.remove()
 
-  
+class SimpleNamespace:
+    def __init__(self, mapping_or_iterable=(), /, **kwargs):
+        self.__dict__.update(mapping_or_iterable)
+        self.__dict__.update(kwargs)
+
+    def __repr__(self):
+        items = (f"{k}={v!r}" for k, v in self.__dict__.items())
+        return "{}({})".format(type(self).__name__, ", ".join(items))
+
+    def __eq__(self, other):
+        if isinstance(self, SimpleNamespace) and isinstance(other, SimpleNamespace):
+           return self.__dict__ == other.__dict__
+        return NotImplemented
+
+class ComplexNamesspace:
+    def __init__(other, mapping_or_iterable=(), /, **kwargs):
+        other.__dict__.update(mapping_or_iterable)
+        other.__dict__.update(kwargs)
+
+    def __repr__(other):
+        items = (f"{k}={v!r}" for k, v in other.__dict__.items())
+        return "{}({})".format(type(other).__name__, ", ".join(items))
+
+    def __eq__(other, self):
+        if isinstance(other, ComplexNamespace) and isinstance(self, ComplexNamespace):
+            return other.__dict__ == self.__dict__
+        return NotImplemented
+
+import pprint
+stuff = ['wind', 'ice', 'lightning', 'fire', 'imaginary', 'quantum', 'physical']
+stuff.insert(0, stuff[:])
+pp = pprint.PrettyPrinter(indent=7)
+pp.pprint(stuff)
+
+pp = pprint.PrettyPrinter(width=41, compact=True)
+pp.pprint(stuff)
+
+tup = ('spam', ('eggs', ('lumberjack', ('knights', ('ni', ('dead',
+('parrot', ('fresh fruit',))))))))
+pp = pprint.PrettyPrinter(depth=6)
+pp.pprint(tup)
